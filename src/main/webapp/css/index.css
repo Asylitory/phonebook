@@ -1,0 +1,69 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	background: #444;	
+	color: #fff;
+}
+
+#wrap {
+	width: 800px;
+	margin: auto;
+	background-color: #333;
+	border-radius: 20px;
+	box-shadow: 5px 10px 10px #111;
+}
+
+#header {
+	height: 50px;
+}
+
+#header h2 {
+	margin: 0;
+	text-align: center;
+	color: #fff;
+}
+
+.sideBorder {
+	width: 100px;
+}
+
+table {
+	margin: auto;
+}
+
+#errors {
+	color: #f00;
+	text-align: center;
+}
+
+table.entries {
+	border-collapse: collapse;
+}
+
+table.entries ,table.entries tr {
+	border-color: #444;
+	border-width: 1px;
+	border-style: solid;
+}
+
+table.entries input {
+	width: 250px;
+}
+
+table.controls {
+	text-align: center;
+}
+
+.buttons {
+	text-align: center;
+}
+
+#footer {
+	height: 50px;
+}
+
+#footer h3 {
+	margin: 0;
+	text-align: center;
+	color: #777;
+}
